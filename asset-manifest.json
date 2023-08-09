@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/isbahahmed/static/css/main.073c9b0a.css",
-    "main.js": "/isbahahmed/static/js/main.fb46e6d4.js",
+    "main.js": "/isbahahmed/static/js/main.f0027542.js",
     "static/js/787.2985d8fd.chunk.js": "/isbahahmed/static/js/787.2985d8fd.chunk.js",
     "static/media/logo.svg": "/isbahahmed/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/isbahahmed/index.html",
     "main.073c9b0a.css.map": "/isbahahmed/static/css/main.073c9b0a.css.map",
-    "main.fb46e6d4.js.map": "/isbahahmed/static/js/main.fb46e6d4.js.map",
+    "main.f0027542.js.map": "/isbahahmed/static/js/main.f0027542.js.map",
     "787.2985d8fd.chunk.js.map": "/isbahahmed/static/js/787.2985d8fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fb46e6d4.js"
+    "static/js/main.f0027542.js"
   ]
 }
